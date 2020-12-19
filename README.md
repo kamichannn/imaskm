@@ -1,4 +1,8 @@
+<!DOCTYPE html>
+	
 
+<html>
+<head>
 
 <SCRIPT language="javascript">
 <!--
@@ -25,3 +29,5 @@ location.href=(u[Math.floor(Math.random()*u.length)]);
 
 
 </body>
+
+</html>
