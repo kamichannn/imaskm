@@ -53,11 +53,6 @@ location.href=(u[Math.floor(Math.random()*u.length)]);
 </div>
 
 
-</body>
-
-</html>
-
-
 
 
 
@@ -89,4 +84,8 @@ document.write(DISP);
 </script>
 </div>
 
-<body>
+</html>
+
+</body>
+
+
